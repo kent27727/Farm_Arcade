@@ -1,0 +1,4 @@
+repository "FarmManager@Lookupgamestr@cloud"
+  path "/"
+    br "/main"
+    co "/main"
